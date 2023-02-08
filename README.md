@@ -2,7 +2,7 @@
 
 <!--
 **Blushev/Blushev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div class="tenor-gif-embed" data-postid="17912030" data-share-method="host" data-aspect-ratio="1.62437" data-width="100%"><a href="https://tenor.com/view/zoro-one-piece-sword-epic-gif-17912030">Zoro One Piece GIF</a>from <a href="https://tenor.com/search/zoro-gifs">Zoro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
